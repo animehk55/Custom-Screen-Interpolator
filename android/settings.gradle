@@ -1,0 +1,3 @@
+rootProject.name = 'Custom_Screen_Interpolator'
+
+include ':app'
